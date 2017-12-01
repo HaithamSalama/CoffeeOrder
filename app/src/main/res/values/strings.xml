@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coffee </string>
+    <string name="q">Quantity</string>
+    <string name="p">Price</string>
+    <string name="costofeachcup">($5.00) For Each Cup Of Coffee</string>
+    <string name="n">0</string>
+    <string name="d">$0.00</string>
+    <string name="addbutton">+</string>
+    <string name="removebutton">-</string>
+    <string name="checkout">Checkout</string>
+    <string name="nd">Have A Nice Day</string>
+</resources>
